@@ -1,0 +1,25 @@
+[project]
+name = "formal-language-prepretraining"
+version = "0.1.0"
+description = "Minimal release code for formal-language pre-pretraining experiments."
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "datasets>=3.0.0",
+    "fire>=0.4.0",
+    "numpy>=2.2.0",
+    "pandas>=2.2.0",
+    "scikit-learn>=1.0.0",
+    "scipy>=1.15.0",
+    "torch>=2.5.0",
+    "tqdm>=4.66.0",
+    "transformers>=4.47.0",
+    "trl>=0.13.0",
+    "wandb>=0.22.0",
+]
+
+[project.optional-dependencies]
+flash = ["flash-attn>=2.8.0"]
+
+[tool.setuptools.packages.find]
+where = ["src"]
