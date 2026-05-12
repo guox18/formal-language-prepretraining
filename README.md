@@ -174,4 +174,14 @@ For Weights and Biases logging, set `REPORT_TO=wandb`; release defaults use `REP
 
 ## Citation
 
-Citation information will be added after the paper metadata is finalized.
+```
+@misc{guo2026syntheticprepretrainingimproveslanguage,
+      title={Synthetic Pre-Pre-Training Improves Language Model Robustness to Noisy Pre-Training Data}, 
+      author={Xu Guo and Runyu Peng and Jian Tong and Yunhua Zhou and Haijun Lv and Zhihui Lu and Qipeng Guo},
+      year={2026},
+      eprint={2605.10129},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2605.10129}, 
+}
+```
