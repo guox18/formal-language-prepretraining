@@ -23,6 +23,10 @@ Model: `EleutherAI/pythia-160m`. Results are mean final C4 validation losses ove
 | 30% | 3.7156 | **3.6881** | 3.7069 |
 | 50% | 3.8111 | **3.7736** | 3.7961 |
 
+## Dataset
+
+The tokenized RNN-PPT dataset for the `EleutherAI/pythia-160m` tokenizer is available on Hugging Face: [guox18/formal-language-rnn-ppt](https://huggingface.co/datasets/guox18/formal-language-rnn-ppt).
+
 ## Repository Layout
 
 ```text
