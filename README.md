@@ -30,6 +30,8 @@ Model: `EleutherAI/pythia-160m`. Results are mean final C4 validation losses ove
 
 The tokenized RNN-PPT dataset for the `EleutherAI/pythia-160m` tokenizer is available on Hugging Face: [guox18/formal-language-rnn-ppt](https://huggingface.co/datasets/guox18/formal-language-rnn-ppt).
 
+The default Hugging Face `main` branch contains a compact 100k-row subset for easier download. The full 333,217-row dataset is available on the [`full`](https://huggingface.co/datasets/guox18/formal-language-rnn-ppt/tree/full) branch.
+
 ## Repository Layout
 
 ```text
