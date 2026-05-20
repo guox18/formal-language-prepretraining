@@ -1,5 +1,8 @@
 # Formal-Language Pre-Pretraining
 
+[![Hugging Face Dataset](https://img.shields.io/badge/Hugging%20Face-Dataset-yellow?logo=huggingface)](https://huggingface.co/datasets/guox18/formal-language-rnn-ppt)
+[![arXiv](https://img.shields.io/badge/arXiv-2605.10129-b31b1b.svg)](https://arxiv.org/abs/2605.10129)
+
 Code for reproducing our pre-pretraining experiments: first expose a randomly initialized language model to structured formal-language data, then continue pretraining on clean or noisy natural-language data.
 
 ## Methods
