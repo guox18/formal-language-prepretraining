@@ -183,14 +183,26 @@ For Weights and Biases logging, set `REPORT_TO=wandb`; release defaults use `REP
 
 ## Citation
 
-```
-@misc{guo2026syntheticprepretrainingimproveslanguage,
-      title={Synthetic Pre-Pre-Training Improves Language Model Robustness to Noisy Pre-Training Data}, 
-      author={Xu Guo and Runyu Peng and Jian Tong and Yunhua Zhou and Haijun Lv and Zhihui Lu and Qipeng Guo},
-      year={2026},
-      eprint={2605.10129},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL},
-      url={https://arxiv.org/abs/2605.10129}, 
+```bibtex
+@article{DBLP:journals/corr/abs-2605-10129,
+  author       = {Xu Guo and
+                  Runyu Peng and
+                  Jian Tong and
+                  Yunhua Zhou and
+                  Haijun Lv and
+                  Zhihui Lu and
+                  Qipeng Guo},
+  title        = {Synthetic Pre-Pre-Training Improves Language Model Robustness to Noisy
+                  Pre-Training Data},
+  journal      = {CoRR},
+  volume       = {abs/2605.10129},
+  year         = {2026},
+  url          = {https://doi.org/10.48550/arXiv.2605.10129},
+  doi          = {10.48550/ARXIV.2605.10129},
+  eprinttype   = {arXiv},
+  eprint       = {2605.10129},
+  timestamp    = {Mon, 08 Jun 2026 15:23:04 +0200},
+  biburl       = {https://dblp.org/rec/journals/corr/abs-2605-10129.bib},
+  bibsource    = {dblp computer science bibliography, https://dblp.org}
 }
 ```
